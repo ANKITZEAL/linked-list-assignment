@@ -1,4 +1,3 @@
-# linked-list-assignment
 
 Single List Assignments
 
@@ -252,7 +251,8 @@ Slist* slist_addnode_unique_elements(Slist *list, int32_t val){ assert(list != N
 `return list;`
 }
 
-double linked list-
+ double linked list
+10. Create double linked list with methods to add, remove, to check the existence of element.
 
 Dlist dlist_new() { Dlist s1 = {NULL, NULL, 0}; return s1; }
 
